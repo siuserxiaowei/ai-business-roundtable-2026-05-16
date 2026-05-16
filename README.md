@@ -14,7 +14,6 @@ https://siuserxiaowei.github.io/ai-business-roundtable-2026-05-16/
 - `docs/participants.html`：13 位参会者自我介绍与合作线索
 - `docs/opportunity-map.html`：AI 落地机会与供需关系
 - `docs/timeline.html`：会议时间线
-- `docs/actions.html`：后续行动与推特文章规划
 - `docs/appendix.html`：结构化附录
 - `docs/assets/styles.css`：统一样式
 
